@@ -1,0 +1,82 @@
+General information
+=====================
+* Extra information about the dataset and the experiment can be obtained by
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+
+Variables Explanation
+=====================
+
+subject	Person measured
+activity_descr	Description of the activity
+activity_label	ID of the activity
+tBodyAcc-mean()-X	Mean Value of the measurements of the variable in X axis
+tBodyAcc-mean()-Y	Mean Value of the measurements of the variable in Y axis
+tBodyAcc-mean()-Z	Mean Value of the measurements of the variable in Z axis
+tBodyAcc-std()-X	Standard deviation of the measurements of the variable in X axis
+tBodyAcc-std()-Y	Standard deviation of the measurements of the variable in Y axis
+tBodyAcc-std()-Z	Standard deviation of the measurements of the variable in Z axis
+tGravityAcc-mean()-X	Mean Value of the measurements of the variable in X axis
+tGravityAcc-mean()-Y	Mean Value of the measurements of the variable in Y axis
+tGravityAcc-mean()-Z	Mean Value of the measurements of the variable in Z axis
+tGravityAcc-std()-X	Standard deviation of the measurements of the variable in X axis
+tGravityAcc-std()-Y	Standard deviation of the measurements of the variable in Y axis
+tGravityAcc-std()-Z	Standard deviation of the measurements of the variable in Z axis
+tBodyAccJerk-mean()-X	Mean Value of the measurements of the variable in X axis
+tBodyAccJerk-mean()-Y	Mean Value of the measurements of the variable in Y axis
+tBodyAccJerk-mean()-Z	Mean Value of the measurements of the variable in Z axis
+tBodyAccJerk-std()-X	Standard deviation of the measurements of the variable in X axis
+tBodyAccJerk-std()-Y	Standard deviation of the measurements of the variable in Y axis
+tBodyAccJerk-std()-Z	Standard deviation of the measurements of the variable in Z axis
+tBodyGyro-mean()-X	Mean Value of the measurements of the variable in X axis
+tBodyGyro-mean()-Y	Mean Value of the measurements of the variable in Y axis
+tBodyGyro-mean()-Z	Mean Value of the measurements of the variable in Z axis
+tBodyGyro-std()-X	Standard deviation of the measurements of the variable in X axis
+tBodyGyro-std()-Y	Standard deviation of the measurements of the variable in Y axis
+tBodyGyro-std()-Z	Standard deviation of the measurements of the variable in Z axis
+tBodyGyroJerk-mean()-X	Mean Value of the measurements of the variable in X axis
+tBodyGyroJerk-mean()-Y	Mean Value of the measurements of the variable in Y axis
+tBodyGyroJerk-mean()-Z	Mean Value of the measurements of the variable in Z axis
+tBodyGyroJerk-std()-X	Standard deviation of the measurements of the variable in X axis
+tBodyGyroJerk-std()-Y	Standard deviation of the measurements of the variable in Y axis
+tBodyGyroJerk-std()-Z	Standard deviation of the measurements of the variable in Z axis
+tBodyAccMag-mean()	Mean Value of the measurements of the variable
+tBodyAccMag-std()	Standard deviation of the measurements of the variable
+tGravityAccMag-mean()	Mean Value of the measurements of the variable
+tGravityAccMag-std()	Standard deviation of the measurements of the variable
+tBodyAccJerkMag-mean()	Mean Value of the measurements of the variable
+tBodyAccJerkMag-std()	Standard deviation of the measurements of the variable
+tBodyGyroMag-mean()	Mean Value of the measurements of the variable
+tBodyGyroMag-std()	Standard deviation of the measurements of the variable
+tBodyGyroJerkMag-mean()	Mean Value of the measurements of the variable
+tBodyGyroJerkMag-std()	Standard deviation of the measurements of the variable
+fBodyAcc-mean()-X	Mean Value of the measurements of the variable in X axis
+fBodyAcc-mean()-Y	Mean Value of the measurements of the variable in Y axis
+fBodyAcc-mean()-Z	Mean Value of the measurements of the variable in Z axis
+fBodyAcc-std()-X	Standard deviation of the measurements of the variable in X axis
+fBodyAcc-std()-Y	Standard deviation of the measurements of the variable in Y axis
+fBodyAcc-std()-Z	Standard deviation of the measurements of the variable in Z axis
+fBodyAccJerk-mean()-X	Mean Value of the measurements of the variable in X axis
+fBodyAccJerk-mean()-Y	Mean Value of the measurements of the variable in Y axis
+fBodyAccJerk-mean()-Z	Mean Value of the measurements of the variable in Z axis
+fBodyAccJerk-std()-X	Standard deviation of the measurements of the variable in X axis
+fBodyAccJerk-std()-Y	Standard deviation of the measurements of the variable in Y axis
+fBodyAccJerk-std()-Z	Standard deviation of the measurements of the variable in Z axis
+fBodyGyro-mean()-X	Mean Value of the measurements of the variable in X axis
+fBodyGyro-mean()-Y	Mean Value of the measurements of the variable in Y axis
+fBodyGyro-mean()-Z	Mean Value of the measurements of the variable in Z axis
+fBodyGyro-std()-X	Standard deviation of the measurements of the variable in X axis
+fBodyGyro-std()-Y	Standard deviation of the measurements of the variable in Y axis
+fBodyGyro-std()-Z	Standard deviation of the measurements of the variable in Z axis
+fBodyAccMag-mean()	Mean Value of the measurements of the variable
+fBodyAccMag-std()	Standard deviation of the measurements of the variable
+fBodyBodyAccJerkMag-mean()	Mean Value of the measurements of the variable
+fBodyBodyAccJerkMag-std()	Standard deviation of the measurements of the variable
+fBodyBodyGyroMag-mean()	Mean Value of the measurements of the variable
+fBodyBodyGyroMag-std()	Standard deviation of the measurements of the variable
+fBodyBodyGyroJerkMag-mean()	Mean Value of the measurements of the variable
+fBodyBodyGyroJerkMag-std()	Standard deviation of the measurements of the variable
