@@ -43,11 +43,10 @@ filtereddata<-cbind(mergeddata[,colnames(mergeddata) %in% featurestokeep$V2],
 filteredwithactivity<-merge(filtereddata,activity_labels,by="activity_label")
 
 ##Creation of a table with the average of each variable for each activity and each subject
-##Note that the column datasource is excluded since it is not needed in this table
 library(dplyr)
 tidyfile<-filteredwithactivity %>% group_by(subject,activity_descr) %>% summarise_each(funs(mean))
 
-##export the file to a txt file
+##export the data to a txt file
 write.table(tidyfile, file = "tidydataset.txt", row.name=FALSE, qmethod = "double")
 
 
