@@ -16,8 +16,13 @@ You are reading me!
 
 ##How the script/program/analysis works
 The script consists of 5 main parts
-###Part1 : Reading the data
-###Part2 : Merge the test and train data
-###Part3 : Clean the data. Keep only the requested columns and name the variables with easy-to-read names
-###Part4 : Creation of a table with the average of each variable for each activity and each subject (tidy data set)
-###Part5 : Export of the data of Part4 to a txt file
+###Part1 - Read
+Reading the data
+###Part2 - Combine
+Merge the test and train data
+###Part3 - Clean
+Clean the data. Keep only the requested columns and name the variables with easy-to-read names
+###Part4 - Create clean datasets
+Creation of a table with the average of each variable for each activity and each subject (tidy data set)
+###Part5 - Export
+Export of the data of Part4 to a txt file
